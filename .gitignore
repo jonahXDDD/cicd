@@ -1,0 +1,15 @@
+**/node_modules/**
+**/bower_components/**
+**/*.log
+**/obj/**
+**/bin/**
+**/data/**
+**/.DS_Store
+**/.npm/**
+**/.cache/**
+**/.config/**
+**/.local/**
+**/.node-gyp/**
+**/.bash_history
+**/.pm2/**
+**/update-notifier-nodemon.json
